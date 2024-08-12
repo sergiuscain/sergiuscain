@@ -10,8 +10,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiuscain)](https://github.com/anuraghazra/github-readme-stats)
 
-Курсы:
-
+<h1>Курсы:</h1>
+https://stepik.org/cert/2447834 
+https://stepik.org/cert/2499389
+https://stepik.org/cert/2533878
+https://stepik.org/cert/2537355
 
 
 
