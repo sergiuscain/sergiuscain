@@ -13,7 +13,7 @@
 <h1>Курсы:</h1>
 <h1>Курсы:</h1>
 <a href="https://stepik.org/cert/2447834 "> 
-  <img src="images/CSharpBase.png" >
+  <img src="images/CSharpBase.png" width="200" >
 </a>
 https://stepik.org/cert/2447834 
 https://stepik.org/cert/2499389
