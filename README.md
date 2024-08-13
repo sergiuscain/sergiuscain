@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiuscain&theme=aura&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiuscain&theme=aura&show_icons=true)
+
 <h1>Courses:</h1>
 <a href="https://stepik.org/cert/2447834"> 
   <img src="images/CSharpBase.png" width="50" >
