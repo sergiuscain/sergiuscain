@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiuscain)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>Курсы:</h1>
+<h1>Courses:</h1>
 <a href="https://stepik.org/cert/2447834"> 
   <img src="images/CSharpBase.png" width="50" >
 </a>
