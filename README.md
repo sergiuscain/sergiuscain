@@ -12,16 +12,16 @@
 
 <h1>Курсы:</h1>
 <a href="https://stepik.org/cert/2447834"> 
-  <img src="images/CSharpBase.png" width="100" >
+  <img src="images/CSharpBase.png" width="50" >
 </a>
 <a href="https://stepik.org/cert/2499389"> 
-  <img src="images/ProCSharp.png" width="100" >
+  <img src="images/ProCSharp.png" width="50" >
 </a>
 <a href="https://stepik.org/cert/2533878"> 
-  <img src="images/Linq.png" width="100" >
+  <img src="images/Linq.png" width="50" >
 </a>
 <a href="https://stepik.org/cert/2537355"> 
-  <img src="images/OOPCSharp.png" width="100" >
+  <img src="images/OOPCSharp.png" width="50" >
 </a>
 
  
